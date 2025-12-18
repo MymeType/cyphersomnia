@@ -19,4 +19,4 @@ This game features the following contributions from the following authors:
 
 ## Licensing
 
-This fangame is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+This software is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
